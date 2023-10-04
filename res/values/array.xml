@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_array">
+        <item>Bike</item>
+        <item>Three Wheel</item>
+        <item>Car</item>
+        <item>Van</item>
+        <item>Bus</item>
+        <item>Lorry</item>
+        <item>Land Vehicle</item>
+    </string-array>
+
+    <string-array name="spinnerFuelType_array">
+        <item>Choose Fuel Type</item>
+        <item>Petrol 92</item>
+        <item>Petrol 95</item>
+        <item>Diesel</item>
+        <item>Super Diesel</item>
+        <item>Kerosene</item>
+    </string-array>
+</resources>
